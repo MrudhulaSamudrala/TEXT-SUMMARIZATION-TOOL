@@ -27,6 +27,12 @@ In this project we will mainly focus on Abstractive Text Summarization specifica
 **Background and Motivation**:
 In today's digital age, text summarization simplifies information overload by condensing content using NLP. This project enhances accessibility and productivity by integrating extractive and abstractive methods. Leveraging BERT and Seq2Seq with attention, it delivers accurate, context aware summaries for efficient content consumption.
 
+**About the dataset**:
+Since the CSV file is quite large, it could not be uploaded to the repository. However, you can download the dataset's CSV file from this website. https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+This dataset consists of reviews of fine foods from Amazon. The data spans a period of more than 10 years, including all ~500,000 reviews up to October 2012. These reviews include product and user information, ratings, plain text review, and summary. It also includes reviews from all other Amazon categories.
+
+We’ll take a sample of 100,000 reviews to reduce the training time of our model. 
+
 **Tools for Text Summarization** :
 Various tools and libraries are available to implement text summarization, both extractive and abstractive.Here, we build a model for Abstractive summarization using RNN neural network and LSTM as well as For Extractive summarization by using Bert model.
 
