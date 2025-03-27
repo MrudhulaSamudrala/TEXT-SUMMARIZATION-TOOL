@@ -36,7 +36,7 @@ BERT (Bidirectional Encoder Representations from Transformers) – Extracts the 
 
 The summarizer library is a Python package that leverages BERT (Bidirectional Encoder Representations from Transformers) for extractive text summarization.
 
-**For Abstractive Summarization* :
+**For Abstractive Summarization** :
 
 Core Libraries : NumPy, Pandas, re, BeautifulSoup, NLTK, Matplotlib, Scikit learn
 
