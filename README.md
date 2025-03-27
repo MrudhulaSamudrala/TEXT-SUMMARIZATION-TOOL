@@ -87,3 +87,8 @@ Early Stopping: Early stopping is used to prevent overfitting by stopping traini
 9. Meeting Notes – Condenses long meetings into action points (e.g., Zoom, Google Meet).
     
 10. Code Documentation – Generates concise explanations for programming code (e.g., GitHub Copilot).
+
+## OUTPUT :
+![Image](https://github.com/user-attachments/assets/85d6d6a5-e999-4f7b-bfa4-932fa3d5eb38)
+
+![Image](https://github.com/user-attachments/assets/0fdeb274-0906-4974-945f-497608a87656)
